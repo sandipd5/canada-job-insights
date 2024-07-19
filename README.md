@@ -32,4 +32,4 @@ Install the required dependencies using the following command:
 ```bash
 pip install -r requirements.txt
 
-This project is licensed under the MIT License.
+# This project is licensed under the MIT License.
